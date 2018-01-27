@@ -4,7 +4,7 @@ See [here](https://seaborn.pydata.org/tutorial.html) for a comprehensive overvie
 
 **Seaborn** works hand-in-hand with matplotlib.pyplot to make very neat visualizations like this:
 
-[contours](https://github.com/chriswernst/python-seaborn-examples/blob/master/contours.png?raw=true)
+![contours](https://github.com/chriswernst/python-seaborn-examples/blob/master/contours.png?raw=true)
 ``` py
 import matplotlib.pyplot as plt
 %matplotlib
